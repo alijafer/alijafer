@@ -2,7 +2,7 @@
 - 👀 I’m interested in python and data science 
 - 🌱 I’m currently learning optimize my python code 
 - 💞️ I’m looking to collaborate on Flask REST api
-- 📫 How to reach me on 📧 [email](15939646+alijafer@users.noreply.github.com) or 🐦 [mhbhs](twitter.com/mhbhs) 
+- 📫 How to reach me on 📧 [email](alijaferalamer@gmail.com) or 🐦 [mhbhs](twitter.com/mhbhs) 
 
 <!---
 alijafer/alijafer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
